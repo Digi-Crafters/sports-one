@@ -1,0 +1,560 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Kookaburra Ghost Pro 1000",
+      "category": "cricket-bats",
+      "subcategory": "premium-bats",
+      "price": 299.99,
+      "originalPrice": 349.99,
+      "discount": 14,
+      "brand": "Kookaburra",
+      "images": [
+        "https://imgs.search.brave.com/5ylVTdDw8-NFzxuJmyH4GWme9GDDqn2vSJ5M0sGC7ZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93ZXN0/ZXJuc3BvcnRzY2Vu/dHJlLmNvbS5hdS9j/ZG4vc2hvcC9wcm9k/dWN0cy9rb29rYWJ1/cnJhLWNyaWNrZXQt/YmF0cy1zaG9ydC1o/YW5kLWtvb2thYnVy/cmEtZ2hvc3QtcHJv/LTEwMDAtYWR1bHQt/c2gtY3JpY2tldC1i/YXQtMTc1MzE2MDA2/MzQwMTEuanBnP3Y9/MTYyODI5NzIzNyZ3/aWR0aD0xMDAw",
+        "https://imgs.search.brave.com/5ylVTdDw8-NFzxuJmyH4GWme9GDDqn2vSJ5M0sGC7ZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93ZXN0/ZXJuc3BvcnRzY2Vu/dHJlLmNvbS5hdS9j/ZG4vc2hvcC9wcm9k/dWN0cy9rb29rYWJ1/cnJhLWNyaWNrZXQt/YmF0cy1zaG9ydC1o/YW5kLWtvb2thYnVy/cmEtZ2hvc3QtcHJv/LTEwMDAtYWR1bHQt/c2gtY3JpY2tldC1i/YXQtMTc1MzE2MDA2/MzQwMTEuanBnP3Y9/MTYyODI5NzIzNyZ3/aWR0aD0xMDAw",
+        "https://imgs.search.brave.com/5ylVTdDw8-NFzxuJmyH4GWme9GDDqn2vSJ5M0sGC7ZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93ZXN0/ZXJuc3BvcnRzY2Vu/dHJlLmNvbS5hdS9j/ZG4vc2hvcC9wcm9k/dWN0cy9rb29rYWJ1/cnJhLWNyaWNrZXQt/YmF0cy1zaG9ydC1o/YW5kLWtvb2thYnVy/cmEtZ2hvc3QtcHJv/LTEwMDAtYWR1bHQt/c2gtY3JpY2tldC1i/YXQtMTc1MzE2MDA2/MzQwMTEuanBnP3Y9/MTYyODI5NzIzNyZ3/aWR0aD0xMDAw"
+      ],
+      "description": "The Kookaburra Ghost Pro 1000 is designed for the modern power hitter. Features premium English willow with large sweet spot and perfect balance for explosive stroke play.",
+      "features": [
+        "Premium Grade 1 English Willow",
+        "14-strand cane handle",
+        "Large sweet spot",
+        "Perfect balance for power hitting",
+        "Professional grade"
+      ],
+      "specifications": {
+        "weight": "2.10 lbs",
+        "grade": "Grade 1 English Willow",
+        "profile": "Mid-low",
+        "sweetSpot": "Large",
+        "handle": "14-strand cane",
+        "grip": "Kookaburra Tour"
+      },
+      "inStock": true,
+      "stockQuantity": 25,
+      "isFeatured": true,
+      "isNew": true,
+      "rating": 4.8,
+      "reviewCount": 47,
+      "tags": ["premium", "english-willow", "professional", "power-hitter"]
+    },
+    {
+      "id": 2,
+      "name": "Gray-Nicolls Legend 808",
+      "category": "cricket-bats",
+      "subcategory": "premium-bats",
+      "price": 279.99,
+      "originalPrice": 329.99,
+      "discount": 15,
+      "brand": "Gray-Nicolls",
+      "images": [
+        "https://imgs.search.brave.com/jX4qTcz8Z80bD1vkRBEcH_-nhW2-vQ_CdyPPOD8Gs7E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2lsYmlybmllc3Bv/cnRzLmNvLm56L2Nk/bi9zaG9wL2ZpbGVz/LzExNDM4TGVnZW5k/X2ZhY2VfMzQ1eDQz/MF9jcm9wX2NlbnRl/ci5qcGc_dj0xNzIw/MDUxOTIy",
+        "https://imgs.search.brave.com/jX4qTcz8Z80bD1vkRBEcH_-nhW2-vQ_CdyPPOD8Gs7E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2lsYmlybmllc3Bv/cnRzLmNvLm56L2Nk/bi9zaG9wL2ZpbGVz/LzExNDM4TGVnZW5k/X2ZhY2VfMzQ1eDQz/MF9jcm9wX2NlbnRl/ci5qcGc_dj0xNzIw/MDUxOTIy",
+        "https://imgs.search.brave.com/jX4qTcz8Z80bD1vkRBEcH_-nhW2-vQ_CdyPPOD8Gs7E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2lsYmlybmllc3Bv/cnRzLmNvLm56L2Nk/bi9zaG9wL2ZpbGVz/LzExNDM4TGVnZW5k/X2ZhY2VfMzQ1eDQz/MF9jcm9wX2NlbnRl/ci5qcGc_dj0xNzIw/MDUxOTIy"
+      ],
+      "description": "The legendary Gray-Nicolls 808 shape returns with modern performance enhancements. Perfect for traditional stroke makers.",
+      "features": [
+        "Premium English Willow",
+        "Classic 808 shape",
+        "Medium bow profile",
+        "Enhanced ping",
+        "Traditional feel"
+      ],
+      "specifications": {
+        "weight": "2.08 lbs",
+        "grade": "Grade 1+ English Willow",
+        "profile": "Medium",
+        "sweetSpot": "Medium-large",
+        "handle": "13-strand cane",
+        "grip": "Gray-Nicolls Professional"
+      },
+      "inStock": true,
+      "stockQuantity": 18,
+      "isFeatured": true,
+      "isNew": false,
+      "rating": 4.7,
+      "reviewCount": 32,
+      "tags": ["classic", "english-willow", "traditional", "professional"]
+    },
+    {
+      "id": 3,
+      "name": "SS Ton Heritage",
+      "category": "cricket-bats",
+      "subcategory": "mid-range-bats",
+      "price": 189.99,
+      "originalPrice": 229.99,
+      "discount": 17,
+      "brand": "SS",
+      "images": [
+        "https://imgs.search.brave.com/F1_c0ScOM4TE_kNmFpPpdWlFKfeHpgSF6dbUkfeWGSg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jcmlj/a2V0ZXJzaG9wLmNv/bS9jZG4vc2hvcC9m/aWxlcy9zcy1lbmds/aXNoLXdpbGxvdy1k/ZWZhdWx0LXRpdGxl/LXNzLXRvbi1oZXJp/dGFnZS1lbmdsaXNo/LXdpbGxvdy1jcmlj/a2V0LWJhdC1zaXpl/LXNoLTM3OTkwMzM3/MjQ5NDYwLmpwZz92/PTE3NDU3NzQ1MDkm/d2lkdGg9NzIw",
+        "https://imgs.search.brave.com/F1_c0ScOM4TE_kNmFpPpdWlFKfeHpgSF6dbUkfeWGSg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jcmlj/a2V0ZXJzaG9wLmNv/bS9jZG4vc2hvcC9m/aWxlcy9zcy1lbmds/aXNoLXdpbGxvdy1k/ZWZhdWx0LXRpdGxl/LXNzLXRvbi1oZXJp/dGFnZS1lbmdsaXNo/LXdpbGxvdy1jcmlj/a2V0LWJhdC1zaXpl/LXNoLTM3OTkwMzM3/MjQ5NDYwLmpwZz92/PTE3NDU3NzQ1MDkm/d2lkdGg9NzIw"
+      ],
+      "description": "The SS Ton Heritage combines traditional craftsmanship with modern performance. Excellent value for serious club cricketers.",
+      "features": [
+        "Grade 2 English Willow",
+        "Medium bow profile",
+        "Extended sweet spot",
+        "Comfortable pick-up",
+        "Great value"
+      ],
+      "specifications": {
+        "weight": "2.11 lbs",
+        "grade": "Grade 2 English Willow",
+        "profile": "Medium",
+        "sweetSpot": "Medium",
+        "handle": "12-strand cane",
+        "grip": "SS Tour"
+      },
+      "inStock": true,
+      "stockQuantity": 42,
+      "isFeatured": false,
+      "isNew": true,
+      "rating": 4.5,
+      "reviewCount": 28,
+      "tags": ["value", "english-willow", "club", "heritage"]
+    },
+    {
+      "id": 4,
+      "name": "GM Icon 808",
+      "category": "cricket-bats",
+      "subcategory": "premium-bats",
+      "price": 319.99,
+      "originalPrice": 369.99,
+      "discount": 14,
+      "brand": "GM",
+      "images": [
+       "https://imgs.search.brave.com/ytQYKQspqq06zjgBTnFpv7-D6BnfWFoteHNikMif-I8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzAw/OTMvMDkxMi82NzQx/L3Byb2R1Y3RzL2lj/b25fYmF0X2JhY2tf/MTYwMHgxNjAwXzFf/MjFmYjRiNDQtNDIx/My00MjAxLWE4ZWYt/NTY4MDYyNTg3NjBi/XzE2MHgxNjAuanBn/P3Y9MTU3MjMxMzg3/MQ"
+      ],
+      "description": "The GM Icon 808 features premium Grade 1+ willow with exceptional grain structure. Designed for elite-level performance.",
+      "features": [
+        "Grade 1+ English Willow",
+        "8-12 straight grains",
+        "Low bow profile",
+        "Massive sweet spot",
+        "Elite performance"
+      ],
+      "specifications": {
+        "weight": "2.09 lbs",
+        "grade": "Grade 1+ English Willow",
+        "profile": "Low",
+        "sweetSpot": "Extra large",
+        "handle": "15-strand cane",
+        "grip": "GM Professional"
+      },
+      "inStock": true,
+      "stockQuantity": 12,
+      "isFeatured": true,
+      "isNew": false,
+      "rating": 4.9,
+      "reviewCount": 19,
+      "tags": ["elite", "premium", "english-willow", "professional"]
+    },
+    {
+      "id": 5,
+      "name": "Kookaburra Kahuna Pro Gloves",
+      "category": "protective-gear",
+      "subcategory": "gloves",
+      "price": 89.99,
+      "originalPrice": 109.99,
+      "discount": 18,
+      "brand": "Kookaburra",
+      "images": [
+       "https://imgs.search.brave.com/viO-0rPsIoKl5LXa9qHrVoBYn6SPtZa21JuIauElN1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y3JpY2tldGJlc3Ri/dXkuY29tL2Nkbi9z/aG9wL2ZpbGVzL2tv/b2thYnVycmEta2Fo/dW5hLTQtMS1jcmlj/a2V0LWJhdHRpbmct/Z2xvdmVzLWFkdWx0/LXJoLWdsb3ZlLWJl/c3QtYnV5LTE0MS53/ZWJwP3Y9MTY5ODk4/NDEzMSZ3aWR0aD0x/NTAw"
+      ],
+      "description": "Professional batting gloves with advanced protection and superior comfort. Moisture-wicking technology keeps hands dry.",
+      "features": [
+        "Advanced finger protection",
+        "Moisture-wicking fabric",
+        "Gel padding",
+        "Pre-curved fingers",
+        "Professional grade"
+      ],
+      "specifications": {
+        "sizes": ["S", "M", "L", "XL"],
+        "protection": "ISO 9001 Certified",
+        "material": "Premium leather & mesh",
+        "closure": "Hook-and-loop strap"
+      },
+      "inStock": true,
+      "stockQuantity": 67,
+      "isFeatured": false,
+      "isNew": true,
+      "rating": 4.6,
+      "reviewCount": 41,
+      "tags": ["gloves", "protection", "professional", "batting"]
+    },
+    {
+      "id": 6,
+      "name": "Gray-Nicolls Powerbow Pads",
+      "category": "protective-gear",
+      "subcategory": "leg-pads",
+      "price": 129.99,
+      "originalPrice": 159.99,
+      "discount": 19,
+      "brand": "Gray-Nicolls",
+      "images": [
+      "https://imgs.search.brave.com/zJgji05RldEnVNLgVoT35a663SAjw4febEVj8ppicw0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91emlz/cG9ydHMuY29tL2Nk/bi9zaG9wL2ZpbGVz/L2dyYXlzcG93ZXJi/b3c3MDBwYWRzMjBf/ZmU1ODk5MjktMDU5/Ny00YTE5LTg2MTQt/MTdjNWViOWEzNDBi/LmpwZz92PTE2OTMw/NTQxNDgmd2lkdGg9/MTQ0NQ"
+      ],
+      "description": "Lightweight yet protective leg pads designed for modern batting. Excellent mobility with maximum protection.",
+      "features": [
+        "Ultra-lightweight construction",
+        "Advanced impact protection",
+        "Moisture-wicking lining",
+        "Anatomically shaped",
+        "Professional grade"
+      ],
+      "specifications": {
+        "sizes": ["SH", "H", "M", "L"],
+        "weight": "Lightweight",
+        "protection": "High-density foam",
+        "straps": "3-point quick-release"
+      },
+      "inStock": true,
+      "stockQuantity": 34,
+      "isFeatured": true,
+      "isNew": false,
+      "rating": 4.7,
+      "reviewCount": 23,
+      "tags": ["pads", "leg-guards", "protection", "batting"]
+    },
+    {
+      "id": 7,
+      "name": "Masuri Vision Series Helmet",
+      "category": "protective-gear",
+      "subcategory": "helmets",
+      "price": 149.99,
+      "originalPrice": 179.99,
+      "discount": 17,
+      "brand": "Masuri",
+      "images": [
+       "https://imgs.search.brave.com/JEBtgDUFUwT5E528Esun0AnOaFInX2BERIkTcjcJC-Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtY2RuLnVidXku/Y28uaW4vNjM0ODEy/NjcxZThlODc0ZWI2/NjQyN2M3LW1hc3Vy/aS12aXNpb24tc2Vy/aWVzLXZzLWVsaXRl/LXN0ZWVsLmpwZw"
+      ],
+      "description": "The Masuri Vision Series offers superior protection with enhanced visibility. Used by international professionals.",
+      "features": [
+        "BSI certified protection",
+        "Enhanced field of vision",
+        "Lightweight GRP shell",
+        "Adjustable ventilation",
+        "Professional grade"
+      ],
+      "specifications": {
+        "sizes": ["S", "M", "L", "XL"],
+        "certification": "BSI Standards",
+        "material": "GRP composite",
+        "grill": "SS high-tensile steel"
+      },
+      "inStock": true,
+      "stockQuantity": 28,
+      "isFeatured": true,
+      "isNew": true,
+      "rating": 4.8,
+      "reviewCount": 56,
+      "tags": ["helmet", "safety", "professional", "protection"]
+    },
+    {
+      "id": 8,
+      "name": "Kookaburra Elite Thigh Guard",
+      "category": "protective-gear",
+      "subcategory": "thigh-guards",
+      "price": 49.99,
+      "originalPrice": 59.99,
+      "discount": 17,
+      "brand": "Kookaburra",
+      "images": [
+       "https://imgs.search.brave.com/QIT8ptn_-n_q4MpFngjnwaAZaZRR7FO8k2myfgMMQ9w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuMi5jb21tZXJj/ZWJ1aWxkLmNvbS9i/NTIyZmQ1MmUxMDFl/ZGM5MjZjMzMwOGMy/MzA0NDVkNS9jb250/ZW50cy8zRTExMTA0/L3RodW1ibmFpbC9t/aWRkbGVfM0UxMTEw/NC5qcGc"
+      ],
+      "description": "Lightweight thigh guard offering maximum protection without restricting movement.",
+      "features": [
+        "Lightweight design",
+        "High-impact foam",
+        "Breathable mesh backing",
+        "Adjustable straps",
+        "Comfortable fit"
+      ],
+      "specifications": {
+        "sizes": ["One Size"],
+        "protection": "High-density foam",
+        "straps": "Elastic with quick-release"
+      },
+      "inStock": true,
+      "stockQuantity": 89,
+      "isFeatured": false,
+      "isNew": false,
+      "rating": 4.4,
+      "reviewCount": 17,
+      "tags": ["thigh-guard", "protection", "lightweight"]
+    },
+    {
+      "id": 9,
+      "name": "Dukes International Cricket Ball",
+      "category": "cricket-balls",
+      "subcategory": "match-balls",
+      "price": 79.99,
+      "originalPrice": 89.99,
+      "discount": 11,
+      "brand": "Dukes",
+      "images": [
+        "https://imgs.search.brave.com/8fo8lYDRnuabfp3zUeuaxtvmvF8q400aMuDNhMlYxHw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWV1bGVtYW5zLmNv/bS5hdS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNi8wOC9kdWtl/cy1pbnRlcm5hdGlv/bmFsLWNyaWNrZXQt/YmFsbC0zMDB4Mjcx/LmpwZw"
+      ],
+      "description": "Official Dukes international match ball. Used in professional cricket competitions worldwide.",
+      "features": [
+        "Hand-stitched quarters",
+        "Premium leather",
+        "Consistent seam",
+        "Professional match quality",
+        "Official specifications"
+      ],
+      "specifications": {
+        "weight": "5.5 oz",
+        "size": "Standard",
+        "seam": "Hand-stitched",
+        "quality": "Match grade"
+      },
+      "inStock": true,
+      "stockQuantity": 156,
+      "isFeatured": false,
+      "isNew": false,
+      "rating": 4.9,
+      "reviewCount": 89,
+      "tags": ["cricket-ball", "match", "professional", "dukes"]
+    },
+    {
+      "id": 10,
+      "name": "Kookaburra Turf Match Ball",
+      "category": "cricket-balls",
+      "subcategory": "match-balls",
+      "price": 69.99,
+      "originalPrice": 79.99,
+      "discount": 13,
+      "brand": "Kookaburra",
+      "images": [
+        "https://imgs.search.brave.com/tDqwo85RTRAKVsOo66vCb5VZ8W8EFo_c5OpuzVCk_DA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFIWVlCdWJxUkwu/anBn"
+      ],
+      "description": "High-quality turf match ball offering excellent durability and consistent performance.",
+      "features": [
+        "Machine-stitched",
+        "Premium leather",
+        "Durable construction",
+        "Club match quality",
+        "Excellent value"
+      ],
+      "specifications": {
+        "weight": "5.5 oz",
+        "size": "Standard",
+        "seam": "Machine-stitched",
+        "quality": "Club match"
+      },
+      "inStock": true,
+      "stockQuantity": 203,
+      "isFeatured": false,
+      "isNew": true,
+      "rating": 4.5,
+      "reviewCount": 67,
+      "tags": ["cricket-ball", "turf", "club", "match"]
+    },
+    {
+      "id": 11,
+      "name": "India National Team Jersey 2024",
+      "category": "apparel",
+      "subcategory": "jerseys",
+      "price": 64.99,
+      "originalPrice": 79.99,
+      "discount": 19,
+      "brand": "Nike",
+      "images": [
+      "https://imgs.search.brave.com/5BQ5e6c_TnIrcLneKhcWvhPgFn6Gv7Fnz1qG1zLqyF8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFybDNDS2VGZUwu/anBn"
+      ],
+      "description": "Official India National Cricket Team jersey for the 2024 season. Authentic replica with official branding.",
+      "features": [
+        "Official replica",
+        "Moisture-wicking Dri-FIT",
+        "Embroidered logos",
+        "Breathable fabric",
+        "Official colors"
+      ],
+      "specifications": {
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "material": "100% Polyester",
+        "care": "Machine washable"
+      },
+      "inStock": true,
+      "stockQuantity": 78,
+      "isFeatured": true,
+      "isNew": true,
+      "rating": 4.8,
+      "reviewCount": 124,
+      "tags": ["jersey", "india", "official", "apparel"]
+    },
+    {
+      "id": 12,
+      "name": "Australia National Team Jersey",
+      "category": "apparel",
+      "subcategory": "jerseys",
+      "price": 59.99,
+      "originalPrice": 69.99,
+      "discount": 14,
+      "brand": "Asics",
+      "images": [
+        "https://imgs.search.brave.com/BUYAJKcrTGDt1ZyFtfjaJU-O6RmHGIsl5oDiFXft5VE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjEydHZndG44Nkwu/anBn"
+      ],
+      "description": "Official Australia National Cricket Team jersey. Classic yellow and green colors with modern fit.",
+      "features": [
+        "Official replica design",
+        "Breathable mesh panels",
+        "Embroidered badge",
+        "Modern athletic fit",
+        "Moisture-wicking"
+      ],
+      "specifications": {
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "material": "100% Polyester",
+        "care": "Machine washable"
+      },
+      "inStock": true,
+      "stockQuantity": 45,
+      "isFeatured": false,
+      "isNew": false,
+      "rating": 4.6,
+      "reviewCount": 89,
+      "tags": ["jersey", "australia", "official", "apparel"]
+    },
+    {
+      "id": 13,
+      "name": "Kookaburra Club Cricket Kit Bag",
+      "category": "accessories",
+      "subcategory": "bags",
+      "price": 89.99,
+      "originalPrice": 109.99,
+      "discount": 18,
+      "brand": "Kookaburra",
+      "images": [
+     "https://imgs.search.brave.com/59HMVELv2_XCZVdpTDCbPhKvr26odlk3Josvl8ixGAs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/ZXJzLWNkbi5uMmVy/cC5jby5uei9jZG4v/aW1hZ2VzL3Byb2R1/Y3RzL2xhcmdlL2tp/dF9iYWdfd2hlZWxz/NjM3NjExNjk1Njgx/MDMzODYyLnBuZw"
+      ],
+      "description": "Spacious kit bag designed to carry all your cricket equipment. Multiple compartments and durable construction.",
+      "features": [
+        "Spacious main compartment",
+        "Multiple pockets",
+        "Padded bat sleeve",
+        "Water-resistant base",
+        "Comfortable shoulder strap"
+      ],
+      "specifications": {
+        "capacity": "Large",
+        "material": "600D polyester",
+        "compartments": "Main + 3 pockets"
+      },
+      "inStock": true,
+      "stockQuantity": 56,
+      "isFeatured": false,
+      "isNew": true,
+      "rating": 4.4,
+      "reviewCount": 34,
+      "tags": ["bag", "kit-bag", "accessory", "storage"]
+    },
+    {
+      "id": 14,
+      "name": "GM Professional Bat Grip",
+      "category": "accessories",
+      "subcategory": "grips",
+      "price": 8.99,
+      "originalPrice": 10.99,
+      "discount": 18,
+      "brand": "GM",
+      "images": [
+        "https://imgs.search.brave.com/HqDGJmECEo9P6OIO7ahy-aRlpuMvuP8NkoOielVq9Sg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jcmlj/a2V0aG9ja2V5LTIw/NGE0Lmt4Y2RuLmNv/bS84NjYxOS1tZWRp/dW1fZGVmYXVsdC9n/bS1wcm8tbGl0ZS1j/cmlja2V0LWJhdC1n/cmlwLXllbGxvdy0y/MDI1LmpwZw"
+      ],
+      "description": "Professional quality bat grip offering excellent shock absorption and superior feel.",
+      "features": [
+        "Excellent shock absorption",
+        "Superior tackiness",
+        "Durable construction",
+        "Easy to fit",
+        "Professional quality"
+      ],
+      "specifications": {
+        "length": "Standard",
+        "material": "High-tack rubber",
+        "colors": ["Black", "Blue", "Red", "Green"]
+      },
+      "inStock": true,
+      "stockQuantity": 234,
+      "isFeatured": false,
+      "isNew": false,
+      "rating": 4.3,
+      "reviewCount": 156,
+      "tags": ["grip", "accessory", "batting"]
+    },
+    {
+      "id": 15,
+      "name": "SS Match Quality Batting Gloves",
+      "category": "protective-gear",
+      "subcategory": "gloves",
+      "price": 45.99,
+      "originalPrice": 55.99,
+      "discount": 18,
+      "brand": "SS",
+      "images": [
+        "https://imgs.search.brave.com/QOS7ZNn37BSDdCI4S8M1iiAOibjdYG8_hdyFkLUDWjY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zY3Nz/cG9ydHMuaW4vY2Ru/L3Nob3AvZmlsZXMv/U1MtU3VwZXJsaXRl/LUNyaWNrZXQtQmF0/dGluZy1HbG92ZXNf/NTM1eC5qcGc_dj0x/NzIyMzI5NTI2"
+      ],
+      "description": "Quality batting gloves offering excellent protection and comfort for club cricketers.",
+      "features": [
+        "Good finger protection",
+        "Breathable mesh",
+        "Comfortable fit",
+        "Durable construction",
+        "Great value"
+      ],
+      "specifications": {
+        "sizes": ["S", "M", "L", "XL"],
+        "protection": "Standard foam",
+        "material": "Synthetic leather & mesh"
+      },
+      "inStock": true,
+      "stockQuantity": 89,
+      "isFeatured": false,
+      "isNew": false,
+      "rating": 4.2,
+      "reviewCount": 45,
+      "tags": ["gloves", "batting", "club", "value"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "cricket-bats",
+      "name": "Cricket Bats",
+      "subcategories": ["premium-bats", "mid-range-bats", "junior-bats"]
+    },
+    {
+      "id": "protective-gear",
+      "name": "Protective Gear",
+      "subcategories": ["gloves", "leg-pads", "helmets", "thigh-guards", "abdominal-guards"]
+    },
+    {
+      "id": "cricket-balls",
+      "name": "Cricket Balls",
+      "subcategories": ["match-balls", "practice-balls", "tennis-balls"]
+    },
+    {
+      "id": "apparel",
+      "name": "Apparel",
+      "subcategories": ["jerseys", "pants", "shoes", "caps", "base-layers"]
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "subcategories": ["bags", "grips", "stumps", "training-aids"]
+    }
+  ],
+  "brands": [
+    "Kookaburra",
+    "Gray-Nicolls",
+    "GM",
+    "SS",
+    "Masuri",
+    "Dukes",
+    "Nike",
+    "Asics",
+    "Adidas",
+    "New Balance"
+  ]
+}
